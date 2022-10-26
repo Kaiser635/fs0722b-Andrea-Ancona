@@ -1,0 +1,120 @@
+body{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    background-image: linear-gradient( 45deg,white, rgb(124, 227, 151)); 
+   
+}
+
+
+#logo1{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+.int{
+    
+    
+    background-image: radial-gradient(white ,gold);)
+    padding: 255px;
+    
+    color: rgb(3, 3, 3);
+    border-radius: 10px;
+    
+}
+
+.title{
+    font-size: 40px;
+}
+
+.paragrafo{
+    text-align: left;
+    margin-left: 352px;
+}
+
+#pizza{
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.citazione{
+    color: grey;
+}
+
+
+.int1{
+    text-align: left;
+    margin-left: 352px;
+    border-left: 3px solid salmon;
+    
+}
+
+.par1{
+    color: salmon;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.collegamento{
+    color: rgb(39, 186, 199);
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.ingredienti{
+    text-align: left;
+    margin-left: 352px;
+    margin-right: 352px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid salmon;
+    padding-bottom: 20px;
+   
+}
+
+#lista{
+    
+    text-align: left;
+    margin-left: 352px;
+    margin-right: 352px;
+}
+
+li{
+    margin: 10px;
+}
+
+.metodi{
+    text-align: left;
+    margin-left: 352px;
+    margin-right: 352px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid salmon;
+    padding-bottom: 20px;
+}
+
+.lista2{
+    text-align: left;
+    margin-left: 352px;
+}
+
+.par2{
+    text-align: left;
+    margin-right: 352px;
+    margin-left: 390px;
+    
+}
+
+.finale{
+    text-align: left;
+    margin-left: 352px;
+
+}
+
+
+
+
+
+
