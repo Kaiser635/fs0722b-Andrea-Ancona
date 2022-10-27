@@ -1,0 +1,289 @@
+/* IMPOSTAZIONI GENERALI */
+body{
+    background-image: url(../img/sfondo.png);
+    font-family: 'Poppins', sans-serif;
+}
+/* HEADER */
+header{
+    
+    text-align: center;
+    background-color: rgb(45, 130, 191);
+    margin:30px 30px;
+    padding: 50px;
+    color: white;
+    
+}
+
+.titolo{
+    font-size: 20px;
+    margin: 20px;
+}
+
+
+
+
+.home{
+    margin: 15px;
+    color: white;
+}
+
+.articoli{
+    margin: 15px;
+    color: white;
+}
+
+.lavora-con-noi{
+    color: white;
+}
+
+
+    
+
+/* MAIN */
+
+main{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin:30px 30px;
+    padding: 50px;
+    color: white;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+h1{
+    color: black;
+    text-align: left;
+    font-size: 40px;
+}
+
+
+
+.articolo{
+    color: black;
+    opacity: 0.5;
+    margin-top: 15px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.laprima{
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 5px;
+    
+}
+
+.colorerosso{
+    color: rgb(174, 27, 120);
+    
+}
+
+.lista{
+    text-align: left;
+    font-size: 20px;
+}
+.levarie{
+    text-align: left;
+    color: black;
+    margin-top: 30px;
+    
+    margin-bottom: 20px;
+}
+
+.cont1{
+color: black;
+
+
+}
+
+.hed1{
+    border: 1px solid grey;
+    background-color: bisque;
+    border-radius: 5px;
+    margin-top: 5px;
+    }
+
+
+.formattazione{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sel{
+    color:rgb(174, 27, 120) ;
+}
+
+.lista2{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
+.progettare{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.lista2 .scrivere  {
+    margin-left: 50px;
+}
+
+.applicare{
+    margin-left: 50px;
+}
+
+.app{
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: left;
+
+}
+
+
+/* TABELLE */
+
+.tabella{
+
+color: black;
+margin: 0 auto;
+margin-top: 40px;
+
+    
+}
+
+
+
+
+.testa{
+    background-color: blue;
+    padding: 30px;
+    font-size: 20px;
+    color: white;
+   
+}
+
+.anno{
+    border-right: 1px solid white;
+    padding: 10px;
+}
+
+.utilizzo{
+    border-right: 1px solid white;
+    padding: 10px;
+}
+
+.supporto{
+    border-right: 1px solid white;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.due{
+font-size: 20px;
+border: 1px solid grey;
+
+
+}
+
+.tre{
+    font-size: 20px;
+border: 1px solid grey;
+background-color: beige;
+}
+
+.quattro{
+    font-size: 20px;
+border: 1px solid grey;
+
+}
+
+.cinque{
+    font-size: 20px;
+border: 1px solid grey;
+background-color: beige;
+}
+
+.sei{
+    font-size: 20px;
+border: 1px solid grey;
+border-bottom: 2px solid blue;
+}
+.sette{
+    padding: 10px;
+}
+
+.otto{
+    padding: 10px;
+    
+}
+
+.nove{
+    padding: 10px;
+}
+
+.dieci{
+    padding: 10px;
+}
+
+.undici{
+    padding: 10px;
+}
+
+.test{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 40px;
+}
+
+iframe{
+    border-radius: 30px;
+    margin-top: 30px;
+    
+}
+
+
+
+/* FORM */
+
+.novita{
+    background-color: rgb(227, 208, 208);
+}
+
+.titolo2{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.blog{
+    color: black;
+    font-size: 20px;
+}
+
+.mail{
+    border-bottom: 2px dotted blue;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.bottone{
+    padding: 10px;
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
