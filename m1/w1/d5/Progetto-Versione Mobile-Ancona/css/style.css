@@ -1,0 +1,208 @@
+/* Your styles here */
+
+body{
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    line-height: 1.65;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo{
+    background-color: black;
+}
+
+
+img{
+   
+    display: block;
+    margin: 0 auto ;
+    
+    
+   
+   
+}
+
+
+#start{
+    background-image: url(../banner.jpg);
+    border: 1px solid #dee1e3;
+    background-size: cover;
+    line-height: 1.65;
+    
+}
+
+.testa .titolo{
+    text-align: center;
+    font-size: 1.7rem ;
+    margin: 20px;
+    color: #25a1c3ee;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.testa .par1{
+    text-align: center;
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px;
+
+}
+
+
+.testa a{
+    
+    padding: 10px;
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 4px;
+    font-size: 12px;
+    display: block;
+    margin: 40 200px;
+    text-align: center;
+    text-decoration: none;
+    
+
+}
+
+#sfondobianco{
+    border: 2px solid #dee1e3;
+}
+
+#sfondobianco h3{
+    color: #25a1c3ee;
+    text-align: center;
+    margin: 40px;
+    font-weight: bold;
+}
+
+#sfondobianco p{
+    color: #393d41;
+    text-align: center;
+    margin: 40px;
+    font-size: 20;
+    
+}
+
+.notb{
+    border-radius: 3000px;
+    width: 300px;
+    
+    
+}
+
+
+
+a:hover{
+    background-color: greenyellow;
+    
+}
+
+
+#sfondoarancione {
+    background-color: #e33c1e ;
+    padding: 10;
+    text-align: center;
+    color: #dee1e3;
+    height: 350px;
+}
+
+#sfondoarancione h2{
+    text-align: center;
+    color: #dee1e3;
+    font-weight: bold;
+    margin: 40px;
+    font-size: 30px;
+}
+
+.cit{
+    font-size: 22px;
+    margin: 40px;
+    font-style: italic;
+}
+
+.name{
+    font-size: 22px;
+    margin-top: 40px;
+}
+
+.status{
+    font-size:13px;
+    margin-bottom: 40px ;
+}
+
+#articoli h4{
+    text-align: center;
+    margin: 20px;
+    color: #25a1c3ee;
+    font-weight: bold;
+}
+
+#articoli p{
+    color: #393d41;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    margin-bottom: 50px;
+    letter-spacing: 1.5px;
+}
+
+.pc1{
+    margin: 45 auto;
+    max-width: 480px;
+    border: 2px solid #dee1e3;
+    margin-top: 45px;
+    
+}
+
+#contatti{
+    text-align: center;
+    color: white;
+    background-color:#25a2c3 ;
+    font-weight: bold;
+    border: 2px solid #dee1e3;
+}
+
+
+
+#contatti h2{
+    
+    font-weight: bold;
+    padding: 30px;
+    font-size: 25px;
+}
+
+i{
+    padding: 3px;
+    color: white;
+    
+}
+
+
+a{
+    
+    color: #c8e7f0;
+}
+
+hr{
+    margin-top: 30px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 30px;
+}
+
+
+.finale{
+    color: #c8e7f0;
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
