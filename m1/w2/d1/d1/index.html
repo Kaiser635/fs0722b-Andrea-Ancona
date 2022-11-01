@@ -4,45 +4,41 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Drink but not Drunk</title>
     <link rel="stylesheet" href="../css/font-awesome.css">
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-    <header>
    
-
+    <header>
+        <!--Titolo dell'header-->
+        <h1>Drink but not Drunk</h1>
+   
     </header>
 
     <main>
-        
-        <section>
-            <div class="anagrafica">
-            
-            <input class="nome" type="text" placeholder="Inserisci il tuo nome">
-            
-            <input class="cognome" type="text" placeholder="Inserisci il tuo cognome">
-            
-            <form action="../form.html" target="_blank">
-            
-                <button class="bottone" type="submit">Invia</button>
-
-            </form>
-
-            </div>
-           
+        <!--Sezione paragrafo-->
+        <section class="sec_01">
+            Inserisci la tua età e controlla se puoi bere
         </section>
+        
+        <!--Div vuoto per ageoutput-->
+        <div id="ageoutput"></div>
+        
+        <!--Input per funzione drink()-->
+        <section class='sec_02'>
+            <input value="Inserisci la tua Età" id="ageinput" type="text" class="inp_01">
+            <button onclick="drink()" class="but_01">Invia</button>
+        </section>
+        
     </main>
 
     <footer>
-
-
+        &copy;2022 - Andrea Ancona
     </footer>
-        
-   
+       
     
-    <script src="../d1/naming.js"></script>
-    <script src="../d1/index.js"></script>
+    <script src="../index.js"></script>
 </body>
 </html>
