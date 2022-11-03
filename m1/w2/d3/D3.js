@@ -8,8 +8,10 @@ let y = 7
 
 if(x > y){
   console.log('x è il numero più grande')
-}else{
+}else if(y > x){
   console.log('y è il numero piu grande')
+}else{
+  console.log('x e y sono uguali')
 }
 
 
@@ -86,15 +88,7 @@ console.log('totale da pagare:',ammountToPay)*/
   Stai lavorando su un sito di e-commerce. Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
   Modifica la risposta precedente includendo questa nuova promozione nell'algoritmo, determinando come prima se le spedizioni sono gratuite oppure no e e calcolando il totale.
 */
-let totalShoppingCarts = 45;
-let shippingCost = 10;
-let ammountToPay = totalShoppingCart 
-let sconto = 20;
 
-if(totalShoppingCart < 50){
-  ammountToPay += shippingCost
-}
-console.log('totale da pagare:',ammountToPay)
   
  
 
@@ -125,10 +119,10 @@ if(l > d && l > f){
 */
 var p = 25;
 
-if(p === '25'){
-  console.log('typeof Number')
+if(typeof p === 'number'){
+  console.log('è un numero')
 }else{
-  console.log('typeof String')
+  console.log('non è un numero')
 }
 
 //risultato number
@@ -188,7 +182,7 @@ console.log(me)
   Lavorando sempre sull'oggetto precedentemente fornito, scrivi del codice per rimuovere l'ultimo elemento della proprietà "skills".
 */
 
-delete me.skills
+delete me.skills[2]
 console.log(me)
 
 

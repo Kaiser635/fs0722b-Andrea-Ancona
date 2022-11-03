@@ -81,6 +81,8 @@ document.write(t);
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
+let name1 = 'jonh'
+let nme2 = 'Jonh'
 name3 = (name1 == name2);
 console.log(name3)
 document.write(name3);
@@ -99,9 +101,9 @@ name1 = 'jonh';
 name2 = 'Jonh';
 
 if (name1.toLowerCase === name2.toLowerCase){
-  document.write('true')
+  console.log('true')
 }else{
-  document.write('falso')
+  console.log('falso')
 }
 
 
