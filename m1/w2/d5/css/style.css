@@ -1,0 +1,131 @@
+body{
+    background-image: linear-gradient(50deg, rgb(80, 199, 215), white);
+    
+  
+}
+
+h1{
+    color: rgb(56, 86, 131);
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Caveat', cursive;
+    margin-top: 50px;
+    margin-bottom: 60px;
+   
+}
+
+.calcolatrice{
+    width: 452px;
+    height: 590px;
+    background-color: black;
+    margin: 30px auto;
+    border-radius: 25px;
+    border: 2px solid orange;
+    box-shadow: 3px 3px 8px 2px black; 
+   
+}
+
+#calcolo:hover{
+    background-color: beige;
+}
+
+#calcolo{
+    margin: 20px auto;
+    font-size: 35px;
+    height: 40px;
+    width: 350px;
+    display: block;
+    padding: 10px;
+    color: black;
+    background-color: white;
+    border: 1px solid orange;
+    border-radius: 5px;
+    
+    
+}
+
+.calcolatrice button{
+    margin-top: 31px;
+    background-color: blue;
+    width: 65px;
+    height: 65px;
+    border-radius: 50px;
+    margin-left: 33.8px;
+    font-size: 18px;
+box-shadow: 2px 2px 2px  wheat;
+    
+}
+
+.num:hover{
+    background-color: wheat;
+}
+
+.corna{
+    width: 80px;
+    height: 80px;
+    background-color: #000;
+    border-bottom-left-radius: 100px;
+    display: flex;
+    margin-top: -351px;
+    margin-left: -85px;
+    border-bottom: 2px solid orange;
+    border-left: 2px solid orange;
+    border-top: 2px solid orange;
+    box-shadow: 2px 2px 6px 2px black;
+}
+
+.corna2{
+    width: 80px;
+    height: 80px;
+    background-color: #000;
+    border-bottom-right-radius: 100px;
+    display: flex;
+    margin-top: -84px;
+    margin-left: 453px;
+    border-bottom: 2px solid orange;
+    border-right: 2px solid orange;
+    border-top: 2px solid orange;
+    box-shadow: 2px 2px 6px 2px black;
+}
+
+
+.calcolatrice .speciali{
+    background-color: white;
+    width: 55px;
+    height: 55px;
+    border: 2px solid;
+    margin-left: 26px;
+}
+
+
+.calcolatrice .ope{
+    background-color: orange;
+    width: 65px;
+    height: 65px;
+    border: 2px solid;
+    
+    
+    
+    
+    
+}
+
+.calcolatrice .num{
+    margin-top: 31px;
+    
+    width: 65px;
+    height: 65px;
+    border: 2px solid;
+    margin-left: 33.8px;
+
+}
+
+
+
+
+footer{
+    text-align: center;
+}
+
+
+

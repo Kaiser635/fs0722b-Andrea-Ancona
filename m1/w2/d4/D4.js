@@ -100,9 +100,9 @@ const starWarsCharacters = [
     gender: "male"
   }
 ];
-var massa = starWarsCharacters.mass
 
-console.log(massa)
+
+
 
 console.log(starWarsCharacters.mass)
 /* ESERCIZIO 1
@@ -180,16 +180,17 @@ console.log(eyeColor)
   Usa un while loop per calcolare la massa totale dell'equipaggio
   */
   
-let massCharacters = 0;
+let j = 0
+let somma = 0
 
-let i = 0
-while(i < starWarsCharacters.length){
-  massCharacters += parseInt(i).mass;
-  i++
+
+while(j < starWarsCharacters.length){
+  somm += parseInt(starWarsCharacters[j].mass)
+  j++
   
 }
 
-console.log(i)
+console.log(somm)
   
   
   
