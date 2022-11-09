@@ -1,0 +1,82 @@
+
+body{
+    background-image: url(../images.jpeg);
+    background-size: cover;
+}
+
+
+/*DIV CHE CONTIENE INPUT E BUTTON*/
+#task{
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 540px;
+    height: 152px;
+    background-image: url(../1994509-un-sacco-di-missili-nucleari-nel-cielo-notturno-aggressivo-attacco-terza-guerra-vettore-illustrazione-piatta-vettoriale.jpeg);
+    background-size: cover;
+    margin: 10% auto;
+}
+
+/*INPUT*/
+#task #task1{
+    font-size: 30px;
+    padding: 20px;
+    margin-top: 33px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-left: 20px;
+}
+
+/*BUTTON*/
+#task #invio{
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-left: 5px;
+}
+
+#lista{
+    max-width: 400px;
+    border-radius: 30px;
+    margin: 0 auto;
+    background-color: beige;
+    margin-bottom: 30px;
+    border: none;
+}
+
+#lista-completati{
+    max-width: 400px;
+    border-radius: 130px;
+    margin: 0 auto;
+    
+    border: none;
+    
+}
+
+.todo{
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.todo.completato{
+    background-color: beige;
+    max-width: 400px;
+    
+}
+.todo button{
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    margin-left: 50px;
+    
+}
+.todo.completato button{
+    background-color: green;
+}
+
+footer{
+    text-align: center;
+    margin-top: 170px;
+}
